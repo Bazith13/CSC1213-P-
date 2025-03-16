@@ -1,17 +1,17 @@
 class StuDetails{
 	public static void main(String args[])
 	{
-		System.out.println("Name: Sountharajah Janany");
+		System.out.println("Name: Abdul Bazith");
 
-		System.out.println("Registration Number:2018/ASP/01");
+		System.out.println("Registration Number:2022/ASP/41");
 
 		System.out.println("Degree Programm: BSc.ComputerScience");
 
 		System.out.println();
 
-		String Name="Sountharajah Janany";
+		String Name="Abdul Bazith";
 
-		String RegNo="2018/ASP/01";
+		String RegNo="2022/ASP/41";
 
 		String Degree="BSc.ComputerScience";
 
